@@ -10,7 +10,9 @@ p {
     text-align: center;
 }
 
-#missao 
+#missao {
+    style="font-size: 25px;"
+}
 
 em strong {
     color: blue;
