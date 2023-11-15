@@ -35,6 +35,10 @@ h2 {
     text-align: center;
 }
 
+ul {
+    display: inline-block;
+}
+
 .imagembene {
     width: 50%;
 }
